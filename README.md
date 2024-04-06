@@ -7,6 +7,7 @@ I am
 - a gatekeeper in the field of mathematics (I hope I am :joy:)
 - a guy who often thinks about weird stuff
 - a AIer?
+- a student!:notes:
 - ~~actually, playing games is the main job, everything else is just a side hustle (just joke :wink:)~~
 
 
