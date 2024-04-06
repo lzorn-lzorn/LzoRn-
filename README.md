@@ -1,11 +1,5 @@
 # LzoRn(李卓然)
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document Title</title>
-    <!-- 在这里添加CSS样式 -->
-    <style>
+<style>
         .container {
           display: flex;
           justify-content: center; /* This centers the content horizontally */
@@ -16,8 +10,6 @@
           margin: 10px; /* Adds some space between the divs */
         }
     </style>
-</head>
-
 <div class = "container">
   <div align="center"> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sun0225SUN&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
