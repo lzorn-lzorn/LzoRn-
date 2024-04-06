@@ -1,4 +1,4 @@
-Hello!:four_leaf_clover: This is LzoRn(which is the abbreviation of my name, LIZHUORAN 李卓然) 
+Hello! :four_leaf_clover: This is LzoRn(which is the abbreviation of my name, LIZHUORAN 李卓然) 
 
 I am
 - C++ player and ruster (maybe :smirk:)  
